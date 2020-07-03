@@ -1,0 +1,11 @@
+2020-07-03 19:29:30.443603 hello
+named arguments: 
+	name: Petya
+returned True2020-07-03 19:31:38.497168 hello
+named arguments: 
+	name: Petya
+returned True2020-07-03 19:38:18.065108 translate_it
+named arguments: 
+	input_file: ES.txt
+	output_file: ES_translate.txt
+returned 0
